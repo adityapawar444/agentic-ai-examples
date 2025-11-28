@@ -1,7 +1,6 @@
 import streamlit as st
 from langchain_google_genai import GoogleGenerativeAI
 
-# API_KEY_HERE = API_KEY_HERE
 st.title("Simple LLM App")
 
 
