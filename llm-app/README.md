@@ -6,7 +6,7 @@ Follow the steps below to set up and run the project locally.
 
 ## ⚠️ Warning
 
-**Important:** This App required Python 3.12.
+**Important:** This App requires Python 3.12.
 
 ---
 
