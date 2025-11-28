@@ -3,6 +3,11 @@
 A lightweight application built with Streamlit and Python.  
 Follow the steps below to set up and run the project locally.
 
+
+## ⚠️ Warning
+
+**Important:** This App required Python 3.12.
+
 ---
 
 ## 🚀 Getting Started
