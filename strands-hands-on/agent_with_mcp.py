@@ -1,12 +1,3 @@
-"""
-MCP Calculator Example
-
-This example demonstrates how to:
-1. Create a simple MCP server that provides calculator functionality
-2. Connect a Strands agent to the MCP server
-3. Use the calculator tools through natural language
-"""
-
 import logging
 import threading
 import time
